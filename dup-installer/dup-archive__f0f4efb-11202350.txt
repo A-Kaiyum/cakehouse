@@ -1,0 +1,579 @@
+{
+    "created": "2021-02-11 20:23:50",
+    "version_dup": "3.8.5.1",
+    "version_wp": "5.6.1",
+    "version_db": "5.7.33",
+    "version_php": "7.4.11",
+    "version_os": "Linux",
+    "dbInfo": {
+        "buildMode": "PHPCHUNKING",
+        "collationList": [
+            "utf8mb4_unicode_520_ci"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "thehunte_wp438",
+        "tablesBaseCount": 52,
+        "tablesFinalCount": 52,
+        "tablesRowCount": 3440,
+        "tablesSizeOnDisk": 19136512,
+        "varLowerCaseTables": "0",
+        "version": "5.7.33",
+        "versionComment": "MySQL Community Server (GPL)",
+        "tableWiseRowCounts": {
+            "wpgm_actionscheduler_actions": "35",
+            "wpgm_actionscheduler_claims": "0",
+            "wpgm_actionscheduler_groups": "3",
+            "wpgm_actionscheduler_logs": "99",
+            "wpgm_cartflows_ca_cart_abandonment": "2",
+            "wpgm_cartflows_ca_email_history": "0",
+            "wpgm_cartflows_ca_email_templates": "3",
+            "wpgm_cartflows_ca_email_templates_meta": "15",
+            "wpgm_commentmeta": "0",
+            "wpgm_comments": "6",
+            "wpgm_duplicator_packages": "0",
+            "wpgm_duplicator_pro_entities": "5",
+            "wpgm_duplicator_pro_packages": "1",
+            "wpgm_links": "0",
+            "wpgm_options": "647",
+            "wpgm_postmeta": "2797",
+            "wpgm_posts": "355",
+            "wpgm_smush_dir_images": "0",
+            "wpgm_term_relationships": "42",
+            "wpgm_term_taxonomy": "28",
+            "wpgm_termmeta": "43",
+            "wpgm_terms": "28",
+            "wpgm_usermeta": "78",
+            "wpgm_users": "2",
+            "wpgm_wc_admin_note_actions": "13",
+            "wpgm_wc_admin_notes": "13",
+            "wpgm_wc_category_lookup": "0",
+            "wpgm_wc_customer_lookup": "3",
+            "wpgm_wc_download_log": "0",
+            "wpgm_wc_order_coupon_lookup": "0",
+            "wpgm_wc_order_product_lookup": "3",
+            "wpgm_wc_order_stats": "3",
+            "wpgm_wc_order_tax_lookup": "0",
+            "wpgm_wc_product_meta_lookup": "13",
+            "wpgm_wc_reserved_stock": "0",
+            "wpgm_wc_tax_rate_classes": "2",
+            "wpgm_wc_webhooks": "0",
+            "wpgm_woocommerce_api_keys": "0",
+            "wpgm_woocommerce_attribute_taxonomies": "0",
+            "wpgm_woocommerce_downloadable_product_permissions": "0",
+            "wpgm_woocommerce_log": "0",
+            "wpgm_woocommerce_order_itemmeta": "27",
+            "wpgm_woocommerce_order_items": "3",
+            "wpgm_woocommerce_payment_tokenmeta": "0",
+            "wpgm_woocommerce_payment_tokens": "0",
+            "wpgm_woocommerce_sessions": "1",
+            "wpgm_woocommerce_shipping_zone_locations": "0",
+            "wpgm_woocommerce_shipping_zone_methods": "0",
+            "wpgm_woocommerce_shipping_zones": "0",
+            "wpgm_woocommerce_tax_rate_locations": "0",
+            "wpgm_woocommerce_tax_rates": "0",
+            "wpgm_wpforms_tasks_meta": "8"
+        }
+    },
+    "url_old": "https:\/\/thehuntersbd.com",
+    "opts_delete": "[\"duplicator_pro_ui_view_state\",\"duplicator_pro_package_active\",\"duplicator_pro_settings\"]",
+    "blogname": "Cakehouse",
+    "wproot": "\/home\/thehunte\/public_html\/",
+    "wplogin_url": "https:\/\/thehuntersbd.com\/wp-login.php",
+    "relative_content_dir": "wp-content",
+    "relative_plugins_dir": "wp-content\/plugins",
+    "relative_theme_dirs": [
+        "wp-content\/themes"
+    ],
+    "exportOnlyDB": 0,
+    "secure_on": 0,
+    "secure_pass": "$2a$08$gF.glSWYDwVOGsI7ALKZ0.ywKIXUHFluNeTew6UW5k2EhgJkLTFx6",
+    "skipscan": 0,
+    "dbhost": "",
+    "dbname": "",
+    "dbuser": "",
+    "dbpass": "",
+    "cache_wp": null,
+    "cache_path": null,
+    "cpnl_dbname": "",
+    "cpnl_host": "",
+    "cpnl_user": "",
+    "cpnl_pass": "",
+    "cpnl_enable": 0,
+    "cpnl_connect": false,
+    "cpnl_dbaction": "create",
+    "cpnl_dbhost": "",
+    "cpnl_dbuser": "",
+    "wp_tableprefix": "wpgm_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "subsites": [],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": -1,
+    "brand": {
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator Pro",
+        "enabled": false,
+        "style": []
+    },
+    "is_outer_root_wp_config_file": false,
+    "is_outer_root_wp_content_dir": false,
+    "wp_content_dir_base_name": "",
+    "wpInfo": {
+        "version": "5.6.1",
+        "is_multisite": false,
+        "network_id": 1,
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/thehunte\/public_html\/",
+                    "inWpConfig": true
+                },
+                "DUPLICATOR_PRO_WPROOTPATH": {
+                    "value": "\/home\/thehunte\/public_html\/",
+                    "inWpConfig": false
+                },
+                "DB_CHARSET": {
+                    "value": "utf8mb4",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "qfmtvxcy2hv9g522ajozuzc7natmd1vtle3pmidb99mimwsgxvzzru1tmyfcqpp0",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "bf6ck30autalafe1jmlxaclfjiwdyqtaxv3y0qzkzf9ahbxnv7wqpcdgi5cbr1ou",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "nyfvlgqorrk6tpsdhyflr8g71fbce67dhttepvtlflpvjtmf59qxgmtq5ax8fhwf",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "3n53uhklokzkeapysltlyhzudu0onovnrxf99cz4v7ow928jc069nij3fyg5zifo",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "oaszjralludg6ophmvslqkxiacmiilskdbzgw3mqvwddfkmvl8d7uvig626b7cbd",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "4uiujl5fmkq0p6qq51mntfhwkf6aqcfssrpcebz3m9yqo8ep3xoil2jb7krlqehu",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "a2p7mgi1bxg61qvceydbeysasxc6toyvuybogcqrw252zukkkvkwbswdlc7ir6no",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "4enqdrpnqedwptjbl43xo8nc6yhgqh7lwhvpphko1mafzhffpza50fscdqbhldf8",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/thehunte\/public_html\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/thehuntersbd.com\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/thehunte\/public_html\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/thehuntersbd.com\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "256M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": true,
+                    "inWpConfig": true
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/thehunte\/public_html\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_DIR": {
+                    "value": 493,
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_FILE": {
+                    "value": 420,
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/thehunte\/public_html\/wp-content\/themes\/astra",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/thehunte\/public_html\/wp-content\/themes\/astra",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/thehunte\/public_html\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/thehuntersbd.com\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/thehuntersbd.com",
+                "homeUrl": "https:\/\/thehuntersbd.com",
+                "homePath": "\/home\/thehunte\/public_html\/",
+                "uploadDirsPath": "\/home\/thehunte\/public_html\/wp-content\/uploads",
+                "uploadDirsUrl": "https:\/\/thehuntersbd.com\/wp-content\/uploads"
+            }
+        },
+        "plugins": {
+            "akismet\/akismet.php": {
+                "slug": "akismet\/akismet.php",
+                "name": "Akismet Anti-Spam",
+                "version": "4.1.8",
+                "pluginURI": "https:\/\/akismet.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/automattic.com\/wordpress-plugins\/",
+                "description": "Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam<\/strong>. It keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key.",
+                "title": "Akismet Anti-Spam",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "autoptimize\/autoptimize.php": {
+                "slug": "autoptimize\/autoptimize.php",
+                "name": "Autoptimize",
+                "version": "2.8.1",
+                "pluginURI": "https:\/\/autoptimize.com\/",
+                "author": "Frank Goossens (futtta)",
+                "authorURI": "https:\/\/autoptimize.com\/",
+                "description": "Makes your site faster by optimizing CSS, JS, Images, Google fonts and more.",
+                "title": "Autoptimize",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.3.40.1",
+                "pluginURI": "https:\/\/snapcreek.com\/duplicator\/duplicator-free\/",
+                "author": "Snap Creek",
+                "authorURI": "http:\/\/www.snapcreek.com\/duplicator\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator-pro\/duplicator-pro.php": {
+                "slug": "duplicator-pro\/duplicator-pro.php",
+                "name": "Duplicator Pro",
+                "version": "3.8.5.1",
+                "pluginURI": "http:\/\/snapcreek.com\/",
+                "author": "Snap Creek",
+                "authorURI": "http:\/\/snapcreek.com",
+                "description": "Create, schedule and transfer a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor\/elementor.php": {
+                "slug": "elementor\/elementor.php",
+                "name": "Elementor",
+                "version": "3.1.0",
+                "pluginURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash",
+                "description": "The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!",
+                "title": "Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "header-footer-elementor\/header-footer-elementor.php": {
+                "slug": "header-footer-elementor\/header-footer-elementor.php",
+                "name": "Elementor - Header, Footer & Blocks",
+                "version": "1.5.6",
+                "pluginURI": "https:\/\/github.com\/Nikschavan\/header-footer-elementor",
+                "author": "Brainstorm Force, Nikhil Chavan",
+                "authorURI": "https:\/\/www.brainstormforce.com\/",
+                "description": "This powerful plugin allows creating a custom header, footer with Elementor and display them on selected locations. You can also create custom Elementor blocks and place them anywhere on the website with a shortcode.",
+                "title": "Elementor - Header, Footer & Blocks",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor-pro\/elementor-pro.php": {
+                "slug": "elementor-pro\/elementor-pro.php",
+                "name": "Elementor Pro",
+                "version": "3.0.8",
+                "pluginURI": "https:\/\/elementor.com\/",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/elementor.com\/",
+                "description": "Elementor Pro brings a whole new design experience to WordPress. Customize your entire theme: header, footer, single post, archive and 404 page, all with one page builder.",
+                "title": "Elementor Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "hello.php": {
+                "slug": "hello.php",
+                "name": "Hello Dolly",
+                "version": "1.7.2",
+                "pluginURI": "http:\/\/wordpress.org\/plugins\/hello-dolly\/",
+                "author": "Matt Mullenweg",
+                "authorURI": "http:\/\/ma.tt\/",
+                "description": "This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly<\/cite> in the upper right of your admin screen on every page.",
+                "title": "Hello Dolly",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-smushit\/wp-smush.php": {
+                "slug": "wp-smushit\/wp-smush.php",
+                "name": "Smush",
+                "version": "3.8.2",
+                "pluginURI": "http:\/\/wordpress.org\/plugins\/wp-smushit\/",
+                "author": "WPMU DEV",
+                "authorURI": "https:\/\/profiles.wordpress.org\/wpmudev\/",
+                "description": "Reduce image file sizes, improve performance and boost your SEO using the free <a href=\"https:\/\/premium.wpmudev.org\/\">WPMU DEV<\/a> WordPress Smush API.",
+                "title": "Smush",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "bkash\/index.php": {
+                "slug": "bkash\/index.php",
+                "name": "SoftTech-IT bKash, Rocket, Nagad",
+                "version": "2.2",
+                "pluginURI": "http:\/\/softtech-it.com",
+                "author": "Md Toriqul Mowla Sujan",
+                "authorURI": "http:\/\/facebook.com\/sujan4g",
+                "description": "This plugin helps users to integrate bkash , rocket and nagad payment gateway along with SMS API with woocommerce. bKash, rocket and nagad all of them are money transfer systems of Bangladesh by facilitating money transfer through mobile phones. This plugin is an addon for woocommerce, so woocommerce is mandatory",
+                "title": "SoftTech-IT bKash, Rocket, Nagad",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "astra-sites\/astra-sites.php": {
+                "slug": "astra-sites\/astra-sites.php",
+                "name": "Starter Templates",
+                "version": "2.5.0",
+                "pluginURI": "https:\/\/wpastra.com\/",
+                "author": "Brainstorm Force",
+                "authorURI": "https:\/\/www.brainstormforce.com",
+                "description": "Starter Templates is all in one solution for complete starter sites, single page templates, blocks & images. This plugin offers the premium library of ready templates & provides quick access to beautiful Pixabay images that can be imported in your website easily.",
+                "title": "Starter Templates",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "updraftplus\/updraftplus.php": {
+                "slug": "updraftplus\/updraftplus.php",
+                "name": "UpdraftPlus - Backup\/Restore",
+                "version": "1.16.47",
+                "pluginURI": "https:\/\/updraftplus.com",
+                "author": "UpdraftPlus.Com, DavidAnderson",
+                "authorURI": "https:\/\/updraftplus.com",
+                "description": "Backup and restore: take backups locally, or backup to Amazon S3, Dropbox, Google Drive, Rackspace, (S)FTP, WebDAV & email, on automatic schedules.",
+                "title": "UpdraftPlus - Backup\/Restore",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "w3-total-cache\/w3-total-cache.php": {
+                "slug": "w3-total-cache\/w3-total-cache.php",
+                "name": "W3 Total Cache",
+                "version": "2.1.0",
+                "pluginURI": "https:\/\/www.boldgrid.com\/totalcache\/",
+                "author": "BoldGrid",
+                "authorURI": "https:\/\/www.boldgrid.com\/",
+                "description": "The highest rated and most complete WordPress performance plugin. Dramatically improve the speed and user experience of your site. Add browser, page, object and database caching as well as minify and content delivery network (CDN) to WordPress.",
+                "title": "W3 Total Cache",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce\/woocommerce.php": {
+                "slug": "woocommerce\/woocommerce.php",
+                "name": "WooCommerce",
+                "version": "4.9.2",
+                "pluginURI": "https:\/\/woocommerce.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/woocommerce.com",
+                "description": "An eCommerce toolkit that helps you sell anything. Beautifully.",
+                "title": "WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woo-cart-abandonment-recovery\/woo-cart-abandonment-recovery.php": {
+                "slug": "woo-cart-abandonment-recovery\/woo-cart-abandonment-recovery.php",
+                "name": "WooCommerce Cart Abandonment Recovery",
+                "version": "1.2.9",
+                "pluginURI": "https:\/\/cartflows.com\/",
+                "author": "CartFlows Inc",
+                "authorURI": "https:\/\/cartflows.com\/",
+                "description": "Recover your lost revenue. Capture email address of users on the checkout page and send follow up emails if they don't complete the purchase.",
+                "title": "WooCommerce Cart Abandonment Recovery",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wpforms-lite\/wpforms.php": {
+                "slug": "wpforms-lite\/wpforms.php",
+                "name": "WPForms Lite",
+                "version": "1.6.4.1",
+                "pluginURI": "https:\/\/wpforms.com",
+                "author": "WPForms",
+                "authorURI": "https:\/\/wpforms.com",
+                "description": "Beginner friendly WordPress contact form plugin. Use our Drag & Drop form builder to create your WordPress forms.",
+                "title": "WPForms Lite",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "advanced-cache.php": {
+                "slug": "advanced-cache.php",
+                "name": "advanced-cache.php",
+                "version": "",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "",
+                "title": "",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": true
+            },
+            "db.php": {
+                "slug": "db.php",
+                "name": "db.php",
+                "version": "",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "",
+                "title": "",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": true
+            },
+            "object-cache.php": {
+                "slug": "object-cache.php",
+                "name": "object-cache.php",
+                "version": "",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "",
+                "title": "",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": true
+            }
+        }
+    },
+    "installer_base_name": "installer.php",
+    "package_name": "20210211_cakehouse_f0f4efb7d69540049690_20210211202350_archive.zip",
+    "package_hash": "f0f4efb-11202350",
+    "package_notes": "",
+    "overwriteInstallerParams": []
+}

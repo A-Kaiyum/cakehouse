@@ -1,0 +1,430 @@
+{
+    "RPT": {
+        "ScanTime": "0.300 sec.",
+        "ScanFile": "20210211_cakehouse_f0f4efb7d69540049690_20210211202350_scan.json",
+        "ScanCreated": "2021-02-11 20:23:52",
+        "ScanPath": "\/home\/thehunte\/public_html\/wp-content\/backups-dup-pro\/tmp\/20210211_cakehouse_f0f4efb7d69540049690_20210211202350_scan.json"
+    },
+    "SRV": {
+        "Brand": {
+            "LogoAttachmentExists": false,
+            "LogoCount": 0,
+            "LogoFinded": 0,
+            "LogoImageExists": true,
+            "LogoImages": [],
+            "Name": "Default",
+            "Notes": "The default content used when a brand is not defined"
+        },
+        "HOST": [],
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "openssl": true,
+            "mysqli": true,
+            "allowurlfopen": true,
+            "curlavailable": true,
+            "version": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ismuplus": true,
+            "ALL": "Good"
+        }
+    },
+    "ARC": {
+        "Size": "218.6MB",
+        "DirCount": "2,392",
+        "FileCount": "12,711",
+        "FullCount": "15,103",
+        "USize": 229222262,
+        "UDirCount": 2392,
+        "UFileCount": 12711,
+        "UFullCount": 15103,
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "\/home\/thehunte\/public_html\/.opcache",
+            "\/home\/thehunte\/public_html\/wp-content\/ai1wm-backups",
+            "\/home\/thehunte\/public_html\/wp-content\/backups-dup-pro",
+            "\/home\/thehunte\/public_html\/wp-content\/backupwordpress",
+            "\/home\/thehunte\/public_html\/wp-content\/cache",
+            "\/home\/thehunte\/public_html\/wp-content\/content\/cache",
+            "\/home\/thehunte\/public_html\/wp-content\/contents\/cache",
+            "\/home\/thehunte\/public_html\/wp-content\/infinitewp\/backups",
+            "\/home\/thehunte\/public_html\/wp-content\/managewp\/backups",
+            "\/home\/thehunte\/public_html\/wp-content\/old-cache",
+            "\/home\/thehunte\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "\/home\/thehunte\/public_html\/wp-content\/plugins\/really-simple-captcha\/tmp",
+            "\/home\/thehunte\/public_html\/wp-content\/plugins\/wordfence\/tmp",
+            "\/home\/thehunte\/public_html\/wp-content\/updraft",
+            "\/home\/thehunte\/public_html\/wp-content\/uploads\/aiowps_backups",
+            "\/home\/thehunte\/public_html\/wp-content\/uploads\/backup-guard",
+            "\/home\/thehunte\/public_html\/wp-content\/uploads\/backupbuddy_backups",
+            "\/home\/thehunte\/public_html\/wp-content\/uploads\/backupbuddy_temp",
+            "\/home\/thehunte\/public_html\/wp-content\/uploads\/ithemes-security\/backups",
+            "\/home\/thehunte\/public_html\/wp-content\/uploads\/mainwp\/backup",
+            "\/home\/thehunte\/public_html\/wp-content\/uploads\/pb_backupbuddy",
+            "\/home\/thehunte\/public_html\/wp-content\/uploads\/snapshots",
+            "\/home\/thehunte\/public_html\/wp-content\/uploads\/sucuri",
+            "\/home\/thehunte\/public_html\/wp-content\/uploads\/wp-clone",
+            "\/home\/thehunte\/public_html\/wp-content\/uploads\/wp_all_backup",
+            "\/home\/thehunte\/public_html\/wp-content\/uploads\/wpbackitup_backups",
+            "\/home\/thehunte\/public_html\/wp-content\/wfcache",
+            "\/home\/thehunte\/public_html\/wp-content\/wishlist-backup",
+            "\/home\/thehunte\/public_html\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            ".DS_Store",
+            "\/home\/thehunte\/public_html\/.htaccess",
+            "\/home\/thehunte\/public_html\/wp-config.php",
+            "dbcache",
+            "debug_log",
+            "error.log",
+            "error_log",
+            "objectcache",
+            "pgcache",
+            "ws_ftp.log"
+        ],
+        "FilterExtsAll": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "Big": "Warn",
+            "AddonSites": "Good",
+            "UnreadableItems": "Good"
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "Size": "Good",
+            "Rows": "Good"
+        },
+        "Size": "18.25MB",
+        "Rows": "3,440",
+        "TableCount": 52,
+        "TableList": {
+            "wpgm_actionscheduler_actions": {
+                "Case": 0,
+                "Rows": "35",
+                "Size": "128KB",
+                "USize": 131072
+            },
+            "wpgm_actionscheduler_claims": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_actionscheduler_groups": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_actionscheduler_logs": {
+                "Case": 0,
+                "Rows": "81",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_cartflows_ca_cart_abandonment": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_cartflows_ca_email_history": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_cartflows_ca_email_templates": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgm_cartflows_ca_email_templates_meta": {
+                "Case": 0,
+                "Rows": "15",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_comments": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "112KB",
+                "USize": 114688
+            },
+            "wpgm_duplicator_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_duplicator_pro_entities": {
+                "Case": 0,
+                "Rows": "5",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_duplicator_pro_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_options": {
+                "Case": 0,
+                "Rows": "638",
+                "Size": "6.11MB",
+                "USize": 6406144
+            },
+            "wpgm_postmeta": {
+                "Case": 0,
+                "Rows": "2,065",
+                "Size": "8.42MB",
+                "USize": 8830976
+            },
+            "wpgm_posts": {
+                "Case": 0,
+                "Rows": "312",
+                "Size": "1.58MB",
+                "USize": 1654784
+            },
+            "wpgm_smush_dir_images": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_term_relationships": {
+                "Case": 0,
+                "Rows": "40",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_term_taxonomy": {
+                "Case": 0,
+                "Rows": "25",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_termmeta": {
+                "Case": 0,
+                "Rows": "39",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_terms": {
+                "Case": 0,
+                "Rows": "25",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_usermeta": {
+                "Case": 0,
+                "Rows": "76",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_users": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wpgm_wc_admin_note_actions": {
+                "Case": 0,
+                "Rows": "13",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_wc_admin_notes": {
+                "Case": 0,
+                "Rows": "12",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgm_wc_category_lookup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgm_wc_customer_lookup": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_wc_download_log": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_wc_order_coupon_lookup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_wc_order_product_lookup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wpgm_wc_order_stats": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wpgm_wc_order_tax_lookup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_wc_product_meta_lookup": {
+                "Case": 0,
+                "Rows": "12",
+                "Size": "112KB",
+                "USize": 114688
+            },
+            "wpgm_wc_reserved_stock": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgm_wc_tax_rate_classes": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_wc_webhooks": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_woocommerce_api_keys": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_woocommerce_attribute_taxonomies": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_woocommerce_downloadable_product_permissions": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wpgm_woocommerce_log": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_woocommerce_order_itemmeta": {
+                "Case": 0,
+                "Rows": "27",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_woocommerce_order_items": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_woocommerce_payment_tokenmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_woocommerce_payment_tokens": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_woocommerce_sessions": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpgm_woocommerce_shipping_zone_locations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_woocommerce_shipping_zone_methods": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgm_woocommerce_shipping_zones": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpgm_woocommerce_tax_rate_locations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpgm_woocommerce_tax_rates": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wpgm_wpforms_tasks_meta": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "16KB",
+                "USize": 16384
+            }
+        }
+    },
+    "Status": 1
+}
